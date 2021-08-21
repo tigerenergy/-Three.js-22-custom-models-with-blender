@@ -8,7 +8,7 @@ import * as dat from 'dat.gui'
 /**
  * Base
  */
-// Debug
+// Debug!
 const gui = new dat.GUI()
 
 // Canvas
