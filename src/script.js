@@ -11,14 +11,14 @@ import * as dat from 'dat.gui'
 // Debug!
 const gui = new dat.GUI()
 
-// Canvas
+// Canvas!
 const canvas = document.querySelector('canvas.webgl')
 
-// Scene
+// Scene!
 const scene = new THREE.Scene()
 
 /**
- * Models
+ * Models!
  */
 const dracoLoader = new DRACOLoader()
 dracoLoader.setDecoderPath('/draco/')
